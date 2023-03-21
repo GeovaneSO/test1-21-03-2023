@@ -1,6 +1,6 @@
 <h1 align="center">Desenvolvedor Web (Back/Front-End) - Django/Python</h1>
 
-Uma empresa de assinatura de energia está interessada em criar uma calculadora de economia em seu site e consultou você para desenvolver a calculadora para eles. Você escolheu a linguagem Python e o framework Django para desenvolver a aplicação.  
+Uma empresa de assinatura de energia está interessada em criar uma calculadora de economia em seu site e consultou você para desenvolver a calculadora para eles. Você escolheu a linguagem Python e o framework Django para desenvolver a aplicação.
 
 Sua aplicação receberá as seguintes entradas:
 
@@ -41,9 +41,9 @@ Requisitos:
 
 <h1 align="center">Atenção: O candidato precisa fazer o fork do repositório para conseguir abrir o pull request.</h1>
 
-Bônus: 
+Bônus:
 
 Terá uma pontuação extra o candidato que conseguir disponibilizar a aplicação em Nuvem com um servidor de sua escolha. O candidato deve disponibilizar o link da aplicação no final desta documentação.
 
-Por curiosidade, segue um exemplo de uma calculadora em produção: 
+Por curiosidade, segue um exemplo de uma calculadora em produção:
 [Simulador - Group Energia - Desconto na conta de luz e gestão de energia](https://groupenergia.com.br/simulador/)
